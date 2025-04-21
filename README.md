@@ -25,7 +25,7 @@ python -m venv virtual
 ```
 ### Enable virtual env
 ```bash
-virtual/Script/activate
+virtual/Scripts/activate
 ``` 
 ### Install dependencies
 
