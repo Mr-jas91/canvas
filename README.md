@@ -23,6 +23,10 @@ Install the required dependencies using `pip`:
 ```bash
 python -m venv virtual
 ```
+### Enable virtual env
+```bash
+virtual/Script/activate
+``` 
 ### Install dependencies
 
 ```bash
